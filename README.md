@@ -43,7 +43,6 @@ This page analyzes the total quantity sold across products, customers, vendors, 
 
 This page focuses on revenue performance, highlighting top-selling products, customers, and vendors.
 
-
 ---
 
 ## 🚀 How to Use
@@ -51,6 +50,16 @@ This page focuses on revenue performance, highlighting top-selling products, cus
 2. Open it using **Power BI Desktop**
 3. Interact with slicers and visuals
 4. Explore insights from both dashboard pages
+
+---
+
+## 🔗 Connect With Me
+
+If you have any feedback or suggestions, feel free to connect.
+
+- **LinkedIn:** [https://www.linkedin.com/in/akhilesh-yadav88/]
+- **Portfolio:** [https://yaadavakhilesh.github.io/]
+- **Email:** yadavakhil766@gmail.com
 
 ---
 
